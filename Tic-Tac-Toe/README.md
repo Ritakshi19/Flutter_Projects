@@ -1,16 +1,11 @@
-# tictactoeapp
+Tic Tac Toe Game
 
-A new Flutter project.
+ScreenShots of the output
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Tic_Tac_Toe_1](https://github.com/user-attachments/assets/ff2cccd9-dd6b-4ff9-87bf-14f29ec3fac4)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Tic_Tac_Toe_Draw](https://github.com/user-attachments/assets/60a317db-a900-42f6-b847-04af6f98c758)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tic_Tac_Toe_Win](https://github.com/user-attachments/assets/62551509-5369-4bad-a110-9b8a2128f96b)
