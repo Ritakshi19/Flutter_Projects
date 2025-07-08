@@ -1,16 +1,11 @@
 # fitness_tracker
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-06-11 202149](https://github.com/user-attachments/assets/9b8f1d57-e0c1-47a6-a84b-e0427030c4f8)
+![Screenshot 2025-06-11 202220](https://github.com/user-attachments/assets/f3e178ed-8984-4ed9-9307-7c2f86448c68)
+![Screenshot 2025-06-11 202408](https://github.com/user-attachments/assets/663c05fc-37b0-4461-900d-3ba2a66e99ca)
+![Screenshot 2025-06-11 202429](https://github.com/user-attachments/assets/4be73a4b-468d-4e84-835e-4a3ebe8a42d0)
+![Screenshot 2025-06-11 202703](https://github.com/user-attachments/assets/fbd512c0-1192-4a87-8b89-74e241c8af80)
+![Screenshot 2025-06-11 202748](https://github.com/user-attachments/assets/234869ef-9b5a-4b49-a5e4-e2f170e4d26b)
+![Screenshot 2025-06-11 202821](https://github.com/user-attachments/assets/c33efedc-efcb-48b6-a422-ea007cf0fdde)
+![Screenshot 2025-06-11 203215](https://github.com/user-attachments/assets/74d53b9f-c77d-4e54-b330-543cc4c59ec8)
