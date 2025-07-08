@@ -2,11 +2,11 @@
 
 Created a simple mobile application that allows users to track their daily fitness activities, log workouts by category, and view a summary of their activity.
 ### Features
-•	The user can add a new workout entry.
-•	The user can view the list of logged workouts
-•	The app shows duration and category of each workout
-•	The user can calculate BMI from weight and height
-•	A summary view shows count of activities by category
+1. The user can add a new workout entry.
+2. The user can view the list of logged workouts
+3. The app shows duration and category of each workout
+4. The user can calculate BMI from weight and height
+5. A summary view shows count of activities by category
 
 ### Pages
 •	Home Page – List of all workouts
