@@ -9,10 +9,11 @@ Created a simple mobile application that allows users to track their daily fitne
 5. A summary view shows count of activities by category
 
 ### Pages
-•	Home Page – List of all workouts
-•	Add Workout Dialog Box – Inputs (Title, Duration, Category, Date)
-•	BMI Calculator Page – Input fields(height, weight) with BMI result and status display
-•	Summary Page – Stats with basic visualization or count
+
+- Home Page – List of all workout.
+- Add Workout Dialog Box – Inputs (Title, Duration, Category, Date)
+- BMI Calculator Page – Input fields(height, weight) with BMI result and status display
+- Summary Page – Stats with basic visualization or count
 
 
 ![Screenshot 2025-06-11 202149](https://github.com/user-attachments/assets/9b8f1d57-e0c1-47a6-a84b-e0427030c4f8)
