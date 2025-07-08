@@ -1,4 +1,4 @@
-#Dice Roller App
+#Dice_Roller_App
 
 ![Screenshot 2025-07-08 143747](https://github.com/user-attachments/assets/dba25ead-30ba-4a90-8c11-5bd170854139)
 
