@@ -1,5 +1,7 @@
 # myexpensetrackerapp
 
+Built a Flutter-based mobile app to manage expenses with category-wise tracking and visualized spending via bar charts.
+
 
 ![Screenshot 2025-07-08 141416](https://github.com/user-attachments/assets/32d82ad0-7da3-4d47-9445-21e714a482d7)
 
